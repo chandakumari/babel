@@ -96,3 +96,4 @@ setup(
     javascript = babel.messages.extract:extract_javascript
     """
 )
+
